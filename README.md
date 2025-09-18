@@ -1,5 +1,5 @@
 <h1 align="center">
-  🌊 Hey there, welcome to my ocean-inspired GitHub! 🐠
+  Hiii, welcome to my GitHub!
 </h1>
 
 <p align="center">
@@ -56,7 +56,7 @@ On this GitHub, you’ll find:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+diving+in!;Let's+build+something+awesome!;Feel+free+to+connect+below!&font=Fira%20Code&center=true&width=430&height=45&duration=3000&pause=1000&color=00bfff&vCenter=true" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+actually+reading+haha;Dunno+what+to+put+here;Are+you+still+here?;This+is+kinda+akward&font=Fira%20Code&center=true&width=430&height=45&duration=3000&pause=1000&color=00bfff&vCenter=true" alt="Typing SVG"/>
 </p>
 
 ---
