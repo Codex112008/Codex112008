@@ -45,7 +45,7 @@ On this GitHub, you’ll find:
 ### 🔧 Skills
 
 - **Coding:** C#, C, Java, Python, GDscript
-- **Art** Budding pixel art
+- **Art:** Budding pixel artist (probably not going anywhere tho)
 
    </td>
   </tr>
