@@ -6,7 +6,7 @@
   <img src="https://media.discordapp.net/attachments/1255162825760968755/1418389056869371934/dhis.png?ex=68cdf13f&is=68cc9fbf&hm=3feed266ad7e7a644ee4c515b8e2ee702e68d3d86d6dee500fef7f069f011285&=&format=webp&quality=lossless&width=630&height=500" alt="DHIS Splsh Image" width="450"/>
 </p>
 <p align="center">
-Thanks to pookleemoon for helping do almost all the art: https://github.com/epicleemoon
+Thanks to pookleemoon for helping do basically all the art: https://github.com/epicleemoon
 </p>
 
 <p align="center">
