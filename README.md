@@ -36,7 +36,7 @@ Hii! I’m a programmer and am obsessed with OOP. I enjoy doing game development
    </td>
    <td width="50%" valign="top">
 
-### What You'll Find Here
+### 🔍 What You'll Find Here
 
 On this GitHub, you’ll find:
 
