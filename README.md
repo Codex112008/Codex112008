@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/29/26/04/292604fca42f49a6517090b6f9f5d98d.gif" alt="Underwater Ocean GIF" width="450"/>
+  <img src="[https://i.pinimg.com/originals/29/26/04/292604fca42f49a6517090b6f9f5d98d.gif](https://media.discordapp.net/attachments/1255162825760968755/1418389056869371934/dhis.png?ex=68cdf13f&is=68cc9fbf&hm=3feed266ad7e7a644ee4c515b8e2ee702e68d3d86d6dee500fef7f069f011285&=&format=webp&quality=lossless&width=630&height=500)" alt="DHIS Splsh Image" width="450"/>
 </p>
 
 <p align="center">
@@ -31,6 +31,7 @@ Hii! I’m a programmer and am obsessed with OOP. I enjoy doing game development
 
 - Current Project: Developing a tower defence game where the players create the towers
 - Side Projects: Marble siege like game simulation
+- Recently Completed: GMTK 2025 Game Jam submission! #522 in enjoyment yay
 
    </td>
    <td width="50%" valign="top">
