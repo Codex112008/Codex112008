@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1255162825760968755/1418389056869371934/dhis.png?ex=68cdf13f&is=68cc9fbf&hm=3feed266ad7e7a644ee4c515b8e2ee702e68d3d86d6dee500fef7f069f011285&=&format=webp&quality=lossless&width=630&height=500" alt="DHIS Splsh Image" width="450"/>
+  <img src="https://cdn.discordapp.com/attachments/1255162825760968755/1418389056869371934/dhis.png?ex=68cf42bf&is=68cdf13f&hm=a44f11b4c22365acd52d4d8023a548a449a472f7d68fe6934508a51c3bc29ff1&" alt="DHIS Splsh Image" width="450"/>
 </p>
 <p align="center">
 Thanks to pookleemoon for helping do basically all the art: https://github.com/epicleemoon
